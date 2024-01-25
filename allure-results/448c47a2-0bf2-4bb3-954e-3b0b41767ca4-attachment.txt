@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//textarea[@class='oxd-buzz-post-input'])[2]"
+}
